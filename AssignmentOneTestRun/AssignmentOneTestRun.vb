@@ -9,10 +9,13 @@ Module AssignmentOneTestRun
 
     Sub Main()
 
+
+        'This is a Test Run...
         Console.WriteLine("HELLO WORLD")
         Console.WriteLine("WELCOME TO 2021")
-        Console.WriteLine("MAY THE ODDS EVER BE EVER IN YOUR FAVOR")
+        Console.WriteLine("AND MAY THE ODDS BE EVER IN YOUR FAVOR...")
 
+        'User press Enter to end test run.
         Console.ReadLine()
 
     End Sub
